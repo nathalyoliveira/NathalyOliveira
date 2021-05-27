@@ -1,4 +1,4 @@
-### Hi there 👋
+# Oiee 👋
 
 <!--
 **nathalyoliveira/NathalyOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyoliveira&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Confira meu perfil no LinkedIn: 
+<a href="linkedin.com/in/nathaly-oliveira-1615b0201">
+      <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="50" height="30"/>
+    </a>
