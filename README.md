@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="linkedin.com/in/nathaly-oliveira-1615b0201">
       <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="50" height="30"/>
     </a>
--->    
+ 
     
 
 ### LinkedIn
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 [Acesse clicando aqui!](linkedin.com/in/nathaly-oliveira-1615b0201)
 
 
+-->   
