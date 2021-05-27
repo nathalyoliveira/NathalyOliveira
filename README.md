@@ -31,10 +31,21 @@ Here are some ideas to get you started:
 
 
 [Acesse clicando aqui!](https://www.linkedin.com/in/nathaly-oliveira-1615b0201)
--->
+
+
+![pequenininho com (3)](https://user-images.githubusercontent.com/73591609/119897727-3ccaaa80-bf17-11eb-93dc-868519271b5f.png)
+
 ### Confira meu perfil no LinkedIn: 
 <a href="https://www.linkedin.com/in/nathaly-oliveira-1615b0201">
       <img src="https://user-images.githubusercontent.com/73591609/119849406-fa877600-bee2-11eb-8e90-206478ba845c.png"/>
+    </a>![pequenininho com (3)](https://user-images.githubusercontent.com/73591609/119897676-26245380-bf17-11eb-8a71-be8495dd9438.png)
+-->
+
+
+### Confira meu perfil no LinkedIn: 
+
+<a href="https://www.linkedin.com/in/nathaly-oliveira-1615b0201">
+      <img src="https://user-images.githubusercontent.com/73591609/119895989-ccbb2500-bf14-11eb-86c5-09076cdb107d.png" width="30" height="30"/>
     </a>
 
- 
+
